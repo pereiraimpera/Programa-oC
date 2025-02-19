@@ -10,7 +10,7 @@ int main(){
      char cidade[50];
 
      //cadastrando Carta 1
-     printf("Carta Número 1\n");
+     printf("Carta SuperTrunfo\n");
      printf("Digite a letra do Estado: ");
      scanf("%s", &est); //inserindo letra do estado
      printf("Digite o Código da Carta: ");
@@ -20,18 +20,11 @@ int main(){
      printf("Digite a População da Cidade: ");
      scanf("%d", &populacao); // População
      printf("Digite a Área (em Km²): ");
-     scanf("%f", &area); // Área em km²
+     scanf("%f", &area);
      printf("Digite o PIB: ");
      scanf("%f", &pib); // Inserindo PIB
      printf("Número de Pontos Turísticos: ");
      scanf("%d", &turisticos); // Pontos Turísticos
-
-
-
-
-
-
-
 
 
 
